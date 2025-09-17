@@ -84,7 +84,8 @@ This project is a web application that converts text to speech using the ElevenL
     ```
     The application will be available at `http://localhost:5173`.
 
-## Demo video link: ``
+## Demo video link: 
+    `https://drive.google.com/file/d/1kg0cjRSE179dZAuy6tTQcMmGx2Vd1VlC/view?usp=sharing`
 
 ## Limitations and Assumptions
 
